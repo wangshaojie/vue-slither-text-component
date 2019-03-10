@@ -1,5 +1,5 @@
 # vue-slither-text-component
-
+![Markdown](http://i1.bvimg.com/515347/f87b59c818f5a270.gif)
 # vue steup
 ```
 npm install --save-dev vue-slither-text-component
