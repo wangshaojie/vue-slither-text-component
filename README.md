@@ -1,5 +1,21 @@
 # vue-slither-text-component
 
+# vue steup
+```
+npm install --save-dev vue-slither-text-component
+
+import SlitherText from './components/SlitherText.vue'
+
+components: {
+  SlitherText
+}
+<slither-text>
+  xxx
+</slither-text> 
+    
+```
+
+
 ## Project setup
 ```
 npm install
